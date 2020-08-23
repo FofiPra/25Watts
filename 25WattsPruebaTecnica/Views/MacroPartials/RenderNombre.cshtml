@@ -1,0 +1,9 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+
+@{
+    var nombre = Model.MacroParameters["Nombre"].ToString();
+}
+
+<div>
+    <a>Nombre: @nombre </a>
+</div>

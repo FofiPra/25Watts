@@ -1,0 +1,9 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+
+@{
+    var email = Model.MacroParameters["Email"].ToString();
+}
+
+<div>
+    <a>Email: @email </a>
+</div>

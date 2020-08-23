@@ -1,0 +1,9 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+
+@{
+    var edad = Model.MacroParameters["Edad"].ToString();
+}
+
+<div>
+    <a>Edad: @edad </a>
+</div>
