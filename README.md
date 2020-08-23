@@ -3,9 +3,9 @@ Repositorio creado para la Prueba Tecnica de 25 Watts
 <br />
 Procedimiento para levantar el ambiente Umbraco desarrollado como prueba tecnica para 25Watts
 <br />
-1-Descargar la solucion a traves del archivo .zip
+1-Clonar el repo o Descargar la solucion a traves del archivo .zip
 <br />
-2-Ejecutar el Script de la Base de Datos en SQL
+2-Ejecutar el Script de la Base de Datos en SQL, para crear una instancia de la misma
 <br />
 3-Abrir Solucion en Visual Studio (Version utilizada 2017)
 <br />
